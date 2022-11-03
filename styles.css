@@ -1,0 +1,18 @@
+.top-primary-nav ul {
+    justify-content: space-around;
+}
+
+.top-primary-nav ul li{
+    list-style-type: none;
+}
+.font{
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.font1{
+    font-family: 'Balsamiq Sans', cursive;
+font-family: 'IBM Plex Sans Arabic', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Sniglet', cursive;
+}
