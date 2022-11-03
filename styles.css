@@ -1,3 +1,36 @@
+.main-color{
+    background-color: rgb(34, 204, 196);
+}
+.small-font{
+    font-size: small;
+}
+.font{
+    font-family: 'Balsamiq Sans', cursive;
+font-family: 'Dongle', sans-serif;
+font-family: 'IBM Plex Sans Arabic', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.text-col{
+    color:rgb(4, 131, 4);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .top-primary-nav ul {
     justify-content: space-around;
 }
@@ -5,14 +38,29 @@
 .top-primary-nav ul li{
     list-style-type: none;
 }
-.font{
-    font-family: 'Balsamiq Sans', cursive;
-    font-family: 'IBM Plex Sans Arabic', sans-serif;
-    font-family: 'Open Sans', sans-serif;
+.top-secondary-nav-wrapper{
+    justify-content: space-around;
 }
-.font1{
-    font-family: 'Balsamiq Sans', cursive;
-font-family: 'IBM Plex Sans Arabic', sans-serif;
-font-family: 'Open Sans', sans-serif;
-font-family: 'Sniglet', cursive;
+.top-secondary-nav-wrapper ul{
+    align-items:baseline;
 }
+.top-secondary-nav-wrapper ul li{
+    list-style-type: none;
+
+}
+.top-secondary-nav-wrapper ul li a{
+    text-decoration: none;
+}
+.img-1{
+    width: 2.75rem;
+}
+.img-2{
+    width:2.30rem ;
+}
+.carousel-caption{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50% , -45%);
+}
+
