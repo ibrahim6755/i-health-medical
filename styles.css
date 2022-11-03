@@ -1,17 +1,17 @@
 .main-color{
-    background-color: rgb(34, 204, 196);
+    background-color: rgba(34, 204, 176, 0.705);
 }
 .small-font{
     font-size: small;
 }
 .font{
-    font-family: 'Balsamiq Sans', cursive;
-font-family: 'Dongle', sans-serif;
-font-family: 'IBM Plex Sans Arabic', sans-serif;
 font-family: 'Open Sans', sans-serif;
 }
 .text-col{
-    color:rgb(4, 131, 4);
+    color:rgb(4, 131, 4, 0.651);
+}
+.background{
+    background-color:rgba(4, 131, 4, 0.651);
 }
 
 
