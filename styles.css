@@ -38,6 +38,9 @@ background-color: transparent;
 .border-radius{
     border-radius: 18px;
 }
+.text-align-justify{
+    text-align: justify !important;
+}
 
 
 
