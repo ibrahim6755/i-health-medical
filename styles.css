@@ -13,10 +13,24 @@ font-family: 'Open Sans', sans-serif;
 .background{
     background-color:rgba(4, 131, 4, 0.651);
 }
+.bg-grey{
+    background-color: rgb(234, 238, 238);
+}
+.bg-blue{
+    background-color: rgba(34, 204, 176, 0.705); 
+}
+.grey{
+    color: rgb(114, 114, 114);
+}
 .carousel-btns{
     display: flex;
     justify-content: start;
 }
+
+
+
+
+
 
 
 
@@ -62,8 +76,17 @@ font-family: 'Open Sans', sans-serif;
 }
 .carousel-caption{
     position: absolute;
-    top: 50%;
-    left: 45%;
-    transform: translate(-50% , -45%);
+    top: 40%;
+    left: 40%;
+    transform: translate(-40% , -40%);
 }
-
+.contact-sec-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.contact-sec-wrapper .row{
+    position: absolute;
+    justify-content: center;
+    bottom: 8%;
+    transform: translateY(-8%);
+}
