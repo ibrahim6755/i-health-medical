@@ -26,6 +26,10 @@ font-family: 'Open Sans', sans-serif;
     display: flex;
     justify-content: start;
 }
+.contact-sec-wrapper{
+    display: flex;
+    justify-content: center;
+}
 
 
 
@@ -84,6 +88,5 @@ font-family: 'Open Sans', sans-serif;
     transform: translate(-40% , -40%);
 }
 .contact-sec-wrapper{
-    display: flex;
-    justify-content: center;
+    align-items: center;
 }
