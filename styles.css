@@ -74,6 +74,9 @@ font-family: 'Open Sans', sans-serif;
 .img-2{
     width:2.30rem ;
 }
+.main-carousel-wrapper{
+    position: relative;
+}
 .carousel-caption{
     position: absolute;
     top: 40%;
@@ -82,8 +85,5 @@ font-family: 'Open Sans', sans-serif;
 }
 .contact-sec-wrapper{
     display: flex;
-    justify-content:center;
-}
-.contact-sec-wrapper .row{
-    justify-content:space-around;
+    justify-content: center;
 }
