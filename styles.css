@@ -26,6 +26,16 @@ font-family: 'Open Sans', sans-serif;
     display: flex;
     justify-content: start;
 }
+.border-radius{
+    border-radius: 18px;
+}
+
+
+
+
+
+
+
 
 
 
@@ -86,9 +96,20 @@ font-family: 'Open Sans', sans-serif;
 .contact-sec-wrapper{
     display: flex;
     justify-content: center;
+    position: absolute;
+    bottom: 8%;
+    left: 22%;
 }
 .contact-sec-wrapper .card{
     display: flex;
     background-color: rgb(234, 238, 238);
     border: 0;
+}
+.about-us-wrapper .img-sec{
+    position: relative;
+}
+.about-us-wrapper .img-sec img.overtop{
+    position: absolute;
+    top: 25%;
+    right: 5%;
 }
