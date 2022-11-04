@@ -82,11 +82,8 @@ font-family: 'Open Sans', sans-serif;
 }
 .contact-sec-wrapper{
     display: flex;
-    justify-content: space-around;
+    justify-content:center;
 }
 .contact-sec-wrapper .row{
-    position: absolute;
-    justify-content: center;
-    bottom: 8%;
-    transform: translateY(-8%);
+    justify-content:space-around;
 }
