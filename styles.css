@@ -31,6 +31,9 @@ background-color: transparent;
 .grey{
     color: rgb(114, 114, 114);
 }
+.bg-light-blue{
+    background-color: rgb(221, 239, 255);
+}
 .carousel-btns{
     display: flex;
     justify-content: start;
@@ -124,4 +127,7 @@ background-color: transparent;
     position: absolute;
     top: 25%;
     right: 5%;
+}
+.our-services-wrapper a{
+    text-decoration: none;
 }
