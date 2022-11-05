@@ -59,6 +59,9 @@ background-color: transparent;
 .width-35{
     width: 35% !important;
 }
+.h-65{
+    height: 65% !important;
+}
 
 
 
@@ -145,7 +148,4 @@ background-color: transparent;
 }
 .our-services-wrapper a{
     text-decoration: none;
-}
-.info-sec-wrapper {
-
 }
