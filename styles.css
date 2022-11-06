@@ -74,6 +74,9 @@ background-color: transparent;
 .h-65{
     height: 65% !important;
 }
+.list-style-none{
+    list-style-type: none;
+}
 
 
 
