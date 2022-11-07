@@ -77,10 +77,18 @@ background-color: transparent;
 .js-between{
     justify-content: space-between;
 }
+.text-align-justify{
+    text-align: justify;
+}
 .border-green{
     border-bottom: 1px solid rgba(12, 165, 12, 0.877);
 }
-
+.text-decor-none{
+    text-decoration: none;
+}
+.font-weight700{
+    font-weight:700;
+}
 
 
 
@@ -138,35 +146,7 @@ background-color: transparent;
 }
 .carousel-caption{
     position: absolute;
-    top: 40%;
-    left: 40%;
-    transform: translate(-40% , -40%);
-}
-.contact-sec-wrapper{
-    display: flex;
-    justify-content: center;
-}
-.contact-sec-wrapper .card{
-    display: flex;
-    background-color: rgb(234, 238, 238);
-    border: 0;
-}
-.about-us-wrapper .img-sec{
-    position: relative;
-}
-.about-us-wrapper .img-sec img.overtop{
-    position: absolute;
-    top: 25%;
-    right: 5%;
-}
-.our-services-wrapper a{
-    text-decoration: none;
-}
-.our-blog .icon{
-    position: relative;
-}
-.our-blog .icon span{
-    position: absolute;
-    bottom: 10%;
-    right: 5%;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%,-55%);
 }
