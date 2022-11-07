@@ -89,6 +89,11 @@ background-color: transparent;
 .font-weight700{
     font-weight:700;
 }
+.overlay{
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+}
 
 
 

@@ -178,3 +178,8 @@ background-color: transparent;
     bottom: 10%;
     right: 5%;
 }
+.overlay{
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+}
