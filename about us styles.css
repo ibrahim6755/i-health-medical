@@ -150,3 +150,31 @@ background-color: transparent;
     left: 55%;
     transform: translate(-50%,-55%);
 }
+.contact-sec-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.contact-sec-wrapper .card{
+    display: flex;
+    background-color: rgb(234, 238, 238);
+    border: 0;
+}
+.about-us-wrapper .img-sec{
+    position: relative;
+}
+.about-us-wrapper .img-sec img.overtop{
+    position: absolute;
+    top: 25%;
+    right: 5%;
+}
+.our-services-wrapper a{
+    text-decoration: none;
+}
+.our-blog .icon{
+    position: relative;
+}
+.our-blog .icon span{
+    position: absolute;
+    bottom: 10%;
+    right: 5%;
+}
