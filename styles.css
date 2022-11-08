@@ -143,8 +143,12 @@ background-color: transparent;
     transform: translate(-40% , -40%);
 }
 .contact-sec-wrapper{
-    display: flex;
+    display: flex !important;
     justify-content: center;
+    position: absolute;
+    bottom:7%;
+    left: 30%;
+    transform: translateX(-30%);
 }
 .contact-sec-wrapper .card{
     display: flex;
