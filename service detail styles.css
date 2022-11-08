@@ -95,10 +95,20 @@ background-color: transparent;
 .text-webkit-center{
     text-align: -webkit-center;
 }
-
-
-
-
+.health-service-wrapper ul{
+    list-style-type: none;
+}
+.health-service-wrapper ul li::before {
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: rgba(12, 165, 12, 0.877); /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: 1em; /* Also needed for space (tweak if needed) */
+    margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+.font-med{
+    font-size: medium;
+}
 
 
 
