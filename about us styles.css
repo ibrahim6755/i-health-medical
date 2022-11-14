@@ -185,3 +185,10 @@ background-color: transparent;
     bottom: 10%;
     right: 5%;
 }
+.our-vision-wrapper .img-sec .img-1{
+    position:relative;
+}
+.our-vision-wrapper .img-sec .img-2{
+    position:absolute;
+    right: 25%;
+}

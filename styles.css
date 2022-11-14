@@ -176,3 +176,18 @@ background-color: transparent;
     bottom: 10%;
     right: 5%;
 }
+.our-mission-wrapper {
+    position: relative;
+}
+.our-mission-wrapper .video-btn{
+    position: absolute;
+    bottom: 30%;
+    left: 47%;
+    background-color:rgba(12, 165, 12, 0.877);
+    border-radius: 18px;
+    width: 8% !important;
+}
+.our-mission-wrapper .video-btn a{
+    text-decoration: none;
+    
+}
