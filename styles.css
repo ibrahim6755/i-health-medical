@@ -1,8 +1,8 @@
 
-.top-primary-nav ul {
+.top-primary-nav .row {
     justify-content: space-between;
     margin-left: 12% !important;
-    margin-right: 12% !important;
+    margin-right: -12% !important;
 }
 .top-primary-nav ul li{
     list-style-type: none;
@@ -177,3 +177,28 @@ background-color: transparent;
     display: none;
 }
 /*generic classes*/
+/******************************************************************************************************************/
+/*media Quires*/
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px){ 
+
+ }
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px){ 
+
+ }
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px){ 
+
+ }
+
+
+/* X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){ 
+
+ }
