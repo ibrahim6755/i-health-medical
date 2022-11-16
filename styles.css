@@ -11,7 +11,7 @@
     justify-content: space-around;
 }
 .top-secondary-nav-wrapper ul{
-    align-items:baseline;
+    align-items:center;
 }
 .top-secondary-nav-wrapper ul li{
     list-style-type: none;
