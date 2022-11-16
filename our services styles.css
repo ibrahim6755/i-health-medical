@@ -1,6 +1,8 @@
 
 .top-primary-nav ul {
-    justify-content: space-around;
+    justify-content: space-between;
+    margin-left: 15% !important;
+    margin-right: 12% !important;
 }
 
 .top-primary-nav ul li{
