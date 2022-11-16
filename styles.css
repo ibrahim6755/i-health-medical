@@ -1,6 +1,8 @@
 
 .top-primary-nav ul {
-    justify-content: space-around;
+    justify-content: space-between;
+    margin-left: 12% !important;
+    margin-right: 12% !important;
 }
 
 .top-primary-nav ul li{
@@ -22,7 +24,7 @@
     width: 7.75rem;
 }
 .img-2{
-    width:2.30rem ;
+    width:2.1rem ;
 }
 .main-carousel-wrapper{
     position: relative;
