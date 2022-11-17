@@ -202,3 +202,10 @@ background-color: transparent;
 @media (min-width: 1200px) and (max-width: 1399.98px){ 
 
  }
+
+ @media (max-width: 991.98px) { 
+    .testimonials-wrapper .container .row{
+        display: block!important;
+        justify-content: center;
+    }
+ }

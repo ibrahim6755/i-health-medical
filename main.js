@@ -3,9 +3,8 @@ $(document).ready(function(){
      $('#expand-para').toggle();
     })
 
-
  })
-
+ 
  $(document).ready(function(){
     $('#make').on('click' , function(){
         let name = $('#name').val();
