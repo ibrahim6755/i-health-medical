@@ -65,8 +65,17 @@ background-color: transparent;
 .text-align-justify{
     text-align: justify !important;
 }
+.text-align-webkit-center{
+    text-align: -webkit-center !important;
+}
 .width-35{
     width: 35% !important;
+}
+.ps-15{
+    padding-left: 15%;
+}
+.pe-15{
+    padding-right: 15%;
 }
 .w-40{
     width: 40%;
