@@ -204,8 +204,9 @@ background-color: transparent;
  }
 
  @media (max-width: 991.98px) { 
-    .testimonials-wrapper .container .row{
+    .testimonials-wrapper .row{
         display: block!important;
-        justify-content: center;
+        justify-content: center !important;
+        padding: 10%;
     }
  }
