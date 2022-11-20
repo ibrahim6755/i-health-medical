@@ -181,6 +181,9 @@ font-size: larger;
 .overflow-x{
     overflow-x: hidden;
 }
+.dropdown-toggle::after{
+    display: none !important;
+}
 /*generic classes*/
 /******************************************************************************************************************/
 /*media Quires*/

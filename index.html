@@ -12,7 +12,7 @@
   </head>
   <body>
    <div class="site-wrapper">
-    <header id="top" class="header">
+    <header id="top" class="header overflow-x">
         <div class="top-nav-bar-wrapper">
             <div class="top-primary-nav main-color ">
                 <div class="nav-text-wrap container">
@@ -31,12 +31,12 @@
                 <ul><li><img class="img-1 pt-0" src="./icons/main website logo.jpg" alt=""></li></ul>
                 <ul class="d-flex align-items-center m-0 p-0">
                     <li class=" mx-3"><a href="./index.html" class="text-uppercase text-dark font smaller-font"> <span style="color:rgb(0, 168, 0);">home</span></a></li>
-                    <div class="dropdown sm-show">
+                    <div class="dropdown-toggle">
                       <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                        Pages
+                       <span class="d-flex align-items-center"> Pages<i class=" ms-1 bi bi-caret-down-fill"></i></span>
                       </button>
                       
-                      <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                      <ul class="dropdown-menu content::after" aria-labelledby="dropdownMenuButton1">
                         <li><a class="dropdown-item" href="./about us.html">About Us</a></li>
                         <li><a class="dropdown-item" href="./our services.html">Services</a></li>
                         <li><a class="dropdown-item" href="./service detail.html">Service details</a></li>
