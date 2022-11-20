@@ -174,3 +174,12 @@ background-color: transparent;
     display: none;
 }
 /*generic classes*/
+
+
+@media (max-width: 991.98px) { 
+    .display{
+        justify-content:start!important;
+        margin-left: 3%;
+
+    }
+ }
