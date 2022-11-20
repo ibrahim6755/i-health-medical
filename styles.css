@@ -120,6 +120,9 @@ background-color: transparent;
 .border-bottom{
     border-bottom: 1px solid black;
 }
+.bg-transparent{
+    background-color: transparent;
+}
 .carousel-btns{
     display: flex;
     justify-content: start;
