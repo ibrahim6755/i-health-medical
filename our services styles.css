@@ -68,7 +68,6 @@
     inset: 0;
     background-color: rgba(0, 0, 0, 0.6);
 }
-
 /***************************************************************************************************************/
 
 /*generic classes*/
@@ -168,5 +167,8 @@ background-color: transparent;
 }
 .text-webkit-center{
     text-align: -webkit-center;
+}
+.overflow-x{
+    overflow-x: hidden;
 }
 /*generic classes*/

@@ -178,6 +178,9 @@ font-size: larger;
 #expand-para{
     display: none;
 }
+.overflow-x{
+    overflow-x: hidden;
+}
 /*generic classes*/
 /******************************************************************************************************************/
 /*media Quires*/

@@ -173,6 +173,10 @@ background-color: transparent;
 #expand-para{
     display: none;
 }
+
+.overflow-x{
+    overflow-x: hidden;
+}
 /*generic classes*/
 
 

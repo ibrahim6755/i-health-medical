@@ -205,6 +205,9 @@ background-color: transparent;
 .font-med{
     font-size: medium;
 }
+.overflow-x{
+    overflow-x: hidden;
+}
 /*geneic classes*/
 /**********************************************************************************************************************/
 
