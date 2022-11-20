@@ -93,7 +93,7 @@
 
         <section class="health-service-wrapper pb-5 container">
             <div class="row  pb-5 pt-5 ">
-              <div class="col-md-6 d-flex align-items-center justify-content-end">
+              <div class="display col-md-6 d-flex align-items-center justify-content-end">
                 <div class="desc-sec w-75">
                   <h3 class="text-dark text-start mt-2 font">Health Service Is Will Provite</h3>
                   <p class="card-text mb-1 w-75 text-align-justify small-font mt-2"><small class="grey font">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium deleniti doloremque ducimus ex temporibus maiores unde nostrum dolores quibusdam in libero commodi explicabo modi molestiae impedit sed, recusa</small></p>
@@ -113,7 +113,14 @@
                   </div>
                 </div><!-- /.desc-sec -->
             </div><!-- /.col-md-6 -->
-              <div class="col-md-6">
+              <div class="col-md-6 
+              @media (max-width: 991.98px) { 
+                 .display{
+                     justify-content:start!important;
+                     margin-left: 3%;
+             
+                 }
+              }">
                 <div class="img-sec d-flex justify-content-center">
                   <img class="main w-50 border-radius mt-5 " src="./img/service details our health img.jpg" alt="">
                 </div><!-- /.img-sec -->
